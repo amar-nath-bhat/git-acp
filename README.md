@@ -15,7 +15,7 @@ This is a small rust code to automate the github workflow. It includes the follo
 Navigate into your repository and run the following command:
 
 ```bash
-git-acp "Your Commit-Message"
+git-acp "Your Commit Message"
 ```
 
 ## Installation
